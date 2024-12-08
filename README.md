@@ -58,6 +58,7 @@ Check out the live demo of the project hosted on **Netlify**:
 Or see the GIF below for a quick preview of the core features:
 
 <a href="https://i.imghippo.com/files/ITN6107zxE.png" target="_blank">Desktop Version</a>
+<br>
 <a href="https://i.imghippo.com/files/mS7057CrM.png" target="_blank">Mobile Version</a>
 
 ---
