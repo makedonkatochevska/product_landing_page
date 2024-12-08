@@ -42,8 +42,6 @@ The main objective of this project was to create a clean, professional, and full
 
 ## Technologies Used ⚙️
 
-Here you can list the technologies you used in your project along with their icons. You can use [Shields.io](https://shields.io/) to get badges for the technologies. Example:
-
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
