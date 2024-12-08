@@ -53,7 +53,7 @@ Check out the live demo of the project hosted on **Netlify**:
 
 <a href="https://productlandingpage-makedonkatochevska.netlify.app/" target="_blank">Live Demo</a>
 
-Or see the GIF below for a quick preview of the core features:
+Or see the pictures below for a quick preview of the core features:
 
 <a href="https://i.imghippo.com/files/ITN6107zxE.png" target="_blank">Desktop Version</a>
 <br>
